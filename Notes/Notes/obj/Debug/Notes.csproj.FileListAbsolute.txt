@@ -1,0 +1,15 @@
+C:\Users\Rasmus\source\repos\Notes\Notes\bin\Debug\Notes.exe.config
+C:\Users\Rasmus\source\repos\Notes\Notes\bin\Debug\Notes.exe
+C:\Users\Rasmus\source\repos\Notes\Notes\bin\Debug\Notes.pdb
+C:\Users\Rasmus\source\repos\Notes\Notes\obj\Debug\Notes.csprojResolveAssemblyReference.cache
+C:\Users\Rasmus\source\repos\Notes\Notes\obj\Debug\MainWindow.g.cs
+C:\Users\Rasmus\source\repos\Notes\Notes\obj\Debug\App.g.cs
+C:\Users\Rasmus\source\repos\Notes\Notes\obj\Debug\Notes_MarkupCompile.cache
+C:\Users\Rasmus\source\repos\Notes\Notes\obj\Debug\Notes_MarkupCompile.lref
+C:\Users\Rasmus\source\repos\Notes\Notes\obj\Debug\MainWindow.baml
+C:\Users\Rasmus\source\repos\Notes\Notes\obj\Debug\Notes.g.resources
+C:\Users\Rasmus\source\repos\Notes\Notes\obj\Debug\Notes.Properties.Resources.resources
+C:\Users\Rasmus\source\repos\Notes\Notes\obj\Debug\Notes.csproj.GenerateResource.Cache
+C:\Users\Rasmus\source\repos\Notes\Notes\obj\Debug\Notes.csproj.CoreCompileInputs.cache
+C:\Users\Rasmus\source\repos\Notes\Notes\obj\Debug\Notes.exe
+C:\Users\Rasmus\source\repos\Notes\Notes\obj\Debug\Notes.pdb
